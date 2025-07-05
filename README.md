@@ -75,7 +75,7 @@ Me chamo Lucas Leite da silva, tenho 29 anos e sou natural de limeira - São Pau
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSilva-D&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 

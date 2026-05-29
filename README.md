@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Leite da silva, tenho 29 anos e sou natural de limeira - São Paulo. . Atualmente, estou estudando Programação com o curso "C50 - O Curso de Ciência da Computação de Harvard no Brasil" para inciar uma nova carreira. Aproveitando Todo meu amor Por Tecnologia. 
+Me chamo Lucas Leite da silva, tenho 30 anos e sou natural de limeira - São Paulo. . Atualmente, estou estudando Programação, para inciar uma nova carreira. Aproveitando Todo meu amor Por Tecnologia. 
 <p align="left">
        <a href="https://github.com/LucasSilva-D?tab=repositories&sort=stargazers">
         <img 
